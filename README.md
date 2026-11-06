@@ -13,7 +13,11 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 
 ## Names
 
+Geordie Baksheeff
+
 ## Summary
+
+Learning how to implement various flip flop types.
 
 ## Lab Questions
 
